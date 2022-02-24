@@ -1,0 +1,504 @@
+Algorithm: Simple QuickSort
+ Array Size: 25000
+ Base Case Less Than: 3
+ Data Setup: Random
+ Number of trials: 10
+ Average Time per trial: 0.00378337 sec.
+
+Algorithm: Median of Three
+ Array Size: 25000
+ Base Case Less Than: 3
+ Data Setup: Random
+ Number of trials: 10
+ Average Time per trial: 0.00447084 sec.
+
+Algorithm: Random Pivot
+ Array Size: 25000
+ Base Case Less Than: 3
+ Data Setup: Random
+ Number of trials: 10
+ Average Time per trial: 0.00559807 sec.
+
+Algorithm: MergeSort
+ Array Size: 25000
+ Base Case Less Than: 3
+ Data Setup: Random
+ Number of trials: 10
+ Average Time per trial: 0.01471055 sec.
+
+Algorithm: Simple QuickSort
+ Array Size: 25000
+ Base Case Less Than: 3
+ Data Setup: Sorted
+ Number of trials: 10
+ Average Time per trial: 0.36819753 sec.
+
+Algorithm: Median of Three
+ Array Size: 25000
+ Base Case Less Than: 3
+ Data Setup: Sorted
+ Number of trials: 10
+ Average Time per trial: 8.8302E-4 sec.
+
+Algorithm: Random Pivot
+ Array Size: 25000
+ Base Case Less Than: 3
+ Data Setup: Sorted
+ Number of trials: 10
+ Average Time per trial: 0.00184546 sec.
+
+Algorithm: MergeSort
+ Array Size: 25000
+ Base Case Less Than: 3
+ Data Setup: Sorted
+ Number of trials: 10
+ Average Time per trial: 1.7257E-4 sec.
+
+Algorithm: Simple QuickSort
+ Array Size: 25000
+ Base Case Less Than: 3
+ Data Setup: Reverse
+ Number of trials: 10
+ Average Time per trial: 0.20615461 sec.
+
+Algorithm: Median of Three
+ Array Size: 25000
+ Base Case Less Than: 3
+ Data Setup: Reverse
+ Number of trials: 10
+ Average Time per trial: 0.00136516 sec.
+
+Algorithm: Random Pivot
+ Array Size: 25000
+ Base Case Less Than: 3
+ Data Setup: Reverse
+ Number of trials: 10
+ Average Time per trial: 0.0016851 sec.
+
+Algorithm: MergeSort
+ Array Size: 25000
+ Base Case Less Than: 3
+ Data Setup: Reverse
+ Number of trials: 10
+ Average Time per trial: 0.00302711 sec.
+
+Algorithm: Simple QuickSort
+ Array Size: 25000
+ Base Case Less Than: 15
+ Data Setup: Random
+ Number of trials: 10
+ Average Time per trial: 0.00257345 sec.
+
+Algorithm: Median of Three
+ Array Size: 25000
+ Base Case Less Than: 15
+ Data Setup: Random
+ Number of trials: 10
+ Average Time per trial: 0.00296261 sec.
+
+Algorithm: Random Pivot
+ Array Size: 25000
+ Base Case Less Than: 15
+ Data Setup: Random
+ Number of trials: 10
+ Average Time per trial: 0.00285371 sec.
+
+Algorithm: MergeSort
+ Array Size: 25000
+ Base Case Less Than: 15
+ Data Setup: Random
+ Number of trials: 10
+ Average Time per trial: 0.00478366 sec.
+
+Algorithm: Simple QuickSort
+ Array Size: 25000
+ Base Case Less Than: 15
+ Data Setup: Sorted
+ Number of trials: 10
+ Average Time per trial: 0.35601269 sec.
+
+Algorithm: Median of Three
+ Array Size: 25000
+ Base Case Less Than: 15
+ Data Setup: Sorted
+ Number of trials: 10
+ Average Time per trial: 6.3448E-4 sec.
+
+Algorithm: Random Pivot
+ Array Size: 25000
+ Base Case Less Than: 15
+ Data Setup: Sorted
+ Number of trials: 10
+ Average Time per trial: 9.0928E-4 sec.
+
+Algorithm: MergeSort
+ Array Size: 25000
+ Base Case Less Than: 15
+ Data Setup: Sorted
+ Number of trials: 10
+ Average Time per trial: 1.8676E-4 sec.
+
+Algorithm: Simple QuickSort
+ Array Size: 25000
+ Base Case Less Than: 15
+ Data Setup: Reverse
+ Number of trials: 10
+ Average Time per trial: 0.19303202 sec.
+
+Algorithm: Median of Three
+ Array Size: 25000
+ Base Case Less Than: 15
+ Data Setup: Reverse
+ Number of trials: 10
+ Average Time per trial: 0.00120594 sec.
+
+Algorithm: Random Pivot
+ Array Size: 25000
+ Base Case Less Than: 15
+ Data Setup: Reverse
+ Number of trials: 10
+ Average Time per trial: 9.4329E-4 sec.
+
+Algorithm: MergeSort
+ Array Size: 25000
+ Base Case Less Than: 15
+ Data Setup: Reverse
+ Number of trials: 10
+ Average Time per trial: 0.00242043 sec.
+
+Algorithm: Simple QuickSort
+ Array Size: 25000
+ Base Case Less Than: 25
+ Data Setup: Random
+ Number of trials: 10
+ Average Time per trial: 0.00309956 sec.
+
+Algorithm: Median of Three
+ Array Size: 25000
+ Base Case Less Than: 25
+ Data Setup: Random
+ Number of trials: 10
+ Average Time per trial: 0.00373365 sec.
+
+Algorithm: Random Pivot
+ Array Size: 25000
+ Base Case Less Than: 25
+ Data Setup: Random
+ Number of trials: 10
+ Average Time per trial: 0.0032406 sec.
+
+Algorithm: MergeSort
+ Array Size: 25000
+ Base Case Less Than: 25
+ Data Setup: Random
+ Number of trials: 10
+ Average Time per trial: 0.00578645 sec.
+
+Algorithm: Simple QuickSort
+ Array Size: 25000
+ Base Case Less Than: 25
+ Data Setup: Sorted
+ Number of trials: 10
+ Average Time per trial: 0.36395406 sec.
+
+Algorithm: Median of Three
+ Array Size: 25000
+ Base Case Less Than: 25
+ Data Setup: Sorted
+ Number of trials: 10
+ Average Time per trial: 6.4948E-4 sec.
+
+Algorithm: Random Pivot
+ Array Size: 25000
+ Base Case Less Than: 25
+ Data Setup: Sorted
+ Number of trials: 10
+ Average Time per trial: 7.6174E-4 sec.
+
+Algorithm: MergeSort
+ Array Size: 25000
+ Base Case Less Than: 25
+ Data Setup: Sorted
+ Number of trials: 10
+ Average Time per trial: 1.8548E-4 sec.
+
+Algorithm: Simple QuickSort
+ Array Size: 25000
+ Base Case Less Than: 25
+ Data Setup: Reverse
+ Number of trials: 10
+ Average Time per trial: 0.18925123 sec.
+
+Algorithm: Median of Three
+ Array Size: 25000
+ Base Case Less Than: 25
+ Data Setup: Reverse
+ Number of trials: 10
+ Average Time per trial: 0.00109346 sec.
+
+Algorithm: Random Pivot
+ Array Size: 25000
+ Base Case Less Than: 25
+ Data Setup: Reverse
+ Number of trials: 10
+ Average Time per trial: 8.7453E-4 sec.
+
+Algorithm: MergeSort
+ Array Size: 25000
+ Base Case Less Than: 25
+ Data Setup: Reverse
+ Number of trials: 10
+ Average Time per trial: 0.00249403 sec.
+
+Algorithm: Simple QuickSort
+ Array Size: 25000
+ Base Case Less Than: 50
+ Data Setup: Random
+ Number of trials: 10
+ Average Time per trial: 0.00274625 sec.
+
+Algorithm: Median of Three
+ Array Size: 25000
+ Base Case Less Than: 50
+ Data Setup: Random
+ Number of trials: 10
+ Average Time per trial: 0.00323917 sec.
+
+Algorithm: Random Pivot
+ Array Size: 25000
+ Base Case Less Than: 50
+ Data Setup: Random
+ Number of trials: 10
+ Average Time per trial: 0.00292344 sec.
+
+Algorithm: MergeSort
+ Array Size: 25000
+ Base Case Less Than: 50
+ Data Setup: Random
+ Number of trials: 10
+ Average Time per trial: 0.00457148 sec.
+
+Algorithm: Simple QuickSort
+ Array Size: 25000
+ Base Case Less Than: 50
+ Data Setup: Sorted
+ Number of trials: 10
+ Average Time per trial: 0.35324238 sec.
+
+Algorithm: Median of Three
+ Array Size: 25000
+ Base Case Less Than: 50
+ Data Setup: Sorted
+ Number of trials: 10
+ Average Time per trial: 5.702E-4 sec.
+
+Algorithm: Random Pivot
+ Array Size: 25000
+ Base Case Less Than: 50
+ Data Setup: Sorted
+ Number of trials: 10
+ Average Time per trial: 6.5969E-4 sec.
+
+Algorithm: MergeSort
+ Array Size: 25000
+ Base Case Less Than: 50
+ Data Setup: Sorted
+ Number of trials: 10
+ Average Time per trial: 2.0525E-4 sec.
+
+Algorithm: Simple QuickSort
+ Array Size: 25000
+ Base Case Less Than: 50
+ Data Setup: Reverse
+ Number of trials: 10
+ Average Time per trial: 0.19001125 sec.
+
+Algorithm: Median of Three
+ Array Size: 25000
+ Base Case Less Than: 50
+ Data Setup: Reverse
+ Number of trials: 10
+ Average Time per trial: 0.00106779 sec.
+
+Algorithm: Random Pivot
+ Array Size: 25000
+ Base Case Less Than: 50
+ Data Setup: Reverse
+ Number of trials: 10
+ Average Time per trial: 7.4245E-4 sec.
+
+Algorithm: MergeSort
+ Array Size: 25000
+ Base Case Less Than: 50
+ Data Setup: Reverse
+ Number of trials: 10
+ Average Time per trial: 0.00254094 sec.
+
+Algorithm: Simple QuickSort
+ Array Size: 25000
+ Base Case Less Than: 100
+ Data Setup: Random
+ Number of trials: 10
+ Average Time per trial: 0.00321575 sec.
+
+Algorithm: Median of Three
+ Array Size: 25000
+ Base Case Less Than: 100
+ Data Setup: Random
+ Number of trials: 10
+ Average Time per trial: 0.00396048 sec.
+
+Algorithm: Random Pivot
+ Array Size: 25000
+ Base Case Less Than: 100
+ Data Setup: Random
+ Number of trials: 10
+ Average Time per trial: 0.0037053 sec.
+
+Algorithm: MergeSort
+ Array Size: 25000
+ Base Case Less Than: 100
+ Data Setup: Random
+ Number of trials: 10
+ Average Time per trial: 0.00485387 sec.
+
+Algorithm: Simple QuickSort
+ Array Size: 25000
+ Base Case Less Than: 100
+ Data Setup: Sorted
+ Number of trials: 10
+ Average Time per trial: 0.35180914 sec.
+
+Algorithm: Median of Three
+ Array Size: 25000
+ Base Case Less Than: 100
+ Data Setup: Sorted
+ Number of trials: 10
+ Average Time per trial: 5.4727E-4 sec.
+
+Algorithm: Random Pivot
+ Array Size: 25000
+ Base Case Less Than: 100
+ Data Setup: Sorted
+ Number of trials: 10
+ Average Time per trial: 5.9109E-4 sec.
+
+Algorithm: MergeSort
+ Array Size: 25000
+ Base Case Less Than: 100
+ Data Setup: Sorted
+ Number of trials: 10
+ Average Time per trial: 1.9667E-4 sec.
+
+Algorithm: Simple QuickSort
+ Array Size: 25000
+ Base Case Less Than: 100
+ Data Setup: Reverse
+ Number of trials: 10
+ Average Time per trial: 0.18938325 sec.
+
+Algorithm: Median of Three
+ Array Size: 25000
+ Base Case Less Than: 100
+ Data Setup: Reverse
+ Number of trials: 10
+ Average Time per trial: 9.7567E-4 sec.
+
+Algorithm: Random Pivot
+ Array Size: 25000
+ Base Case Less Than: 100
+ Data Setup: Reverse
+ Number of trials: 10
+ Average Time per trial: 6.3259E-4 sec.
+
+Algorithm: MergeSort
+ Array Size: 25000
+ Base Case Less Than: 100
+ Data Setup: Reverse
+ Number of trials: 10
+ Average Time per trial: 0.00254311 sec.
+
+Algorithm: Simple QuickSort
+ Array Size: 25000
+ Base Case Less Than: 500
+ Data Setup: Random
+ Number of trials: 10
+ Average Time per trial: 0.00813216 sec.
+
+Algorithm: Median of Three
+ Array Size: 25000
+ Base Case Less Than: 500
+ Data Setup: Random
+ Number of trials: 10
+ Average Time per trial: 0.01075351 sec.
+
+Algorithm: Random Pivot
+ Array Size: 25000
+ Base Case Less Than: 500
+ Data Setup: Random
+ Number of trials: 10
+ Average Time per trial: 0.01047668 sec.
+
+Algorithm: MergeSort
+ Array Size: 25000
+ Base Case Less Than: 500
+ Data Setup: Random
+ Number of trials: 10
+ Average Time per trial: 0.00468128 sec.
+
+Algorithm: Simple QuickSort
+ Array Size: 25000
+ Base Case Less Than: 500
+ Data Setup: Sorted
+ Number of trials: 10
+ Average Time per trial: 0.35372624 sec.
+
+Algorithm: Median of Three
+ Array Size: 25000
+ Base Case Less Than: 500
+ Data Setup: Sorted
+ Number of trials: 10
+ Average Time per trial: 4.5234E-4 sec.
+
+Algorithm: Random Pivot
+ Array Size: 25000
+ Base Case Less Than: 500
+ Data Setup: Sorted
+ Number of trials: 10
+ Average Time per trial: 5.0592E-4 sec.
+
+Algorithm: MergeSort
+ Array Size: 25000
+ Base Case Less Than: 500
+ Data Setup: Sorted
+ Number of trials: 10
+ Average Time per trial: 2.0866E-4 sec.
+
+Algorithm: Simple QuickSort
+ Array Size: 25000
+ Base Case Less Than: 500
+ Data Setup: Reverse
+ Number of trials: 10
+ Average Time per trial: 0.18981374 sec.
+
+Algorithm: Median of Three
+ Array Size: 25000
+ Base Case Less Than: 500
+ Data Setup: Reverse
+ Number of trials: 10
+ Average Time per trial: 7.5105E-4 sec.
+
+Algorithm: Random Pivot
+ Array Size: 25000
+ Base Case Less Than: 500
+ Data Setup: Reverse
+ Number of trials: 10
+ Average Time per trial: 5.2985E-4 sec.
+
+Algorithm: MergeSort
+ Array Size: 25000
+ Base Case Less Than: 500
+ Data Setup: Reverse
+ Number of trials: 10
+ Average Time per trial: 0.00249454 sec.
+
